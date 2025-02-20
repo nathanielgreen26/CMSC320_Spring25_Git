@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: A common example of an application of data science is found in streaming services which use data about users to try and predict the type of media they are likely to consume.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Both allow for you to integrate changes between branches, but in the case of merge, the entire history is preserved in the log, with branches not being changed, while with rebase the entire new branch is added onto main with new commits for each in the branch. This creates a more linear history in the log. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about how recommendation algorithms work.
