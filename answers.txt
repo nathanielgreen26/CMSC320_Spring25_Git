@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: A common example of an application of data science is found in streaming services which use data about users to try and predict the type of media they are likely to consume.
